@@ -1,4 +1,4 @@
-package com.reynolds.util.http;
+package com.reynolds.composer.v1.util.http;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
