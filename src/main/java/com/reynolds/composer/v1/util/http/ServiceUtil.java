@@ -1,12 +1,13 @@
 package com.reynolds.composer.v1.util.http;
 
-import java.net.InetAddress;
-import java.net.UnknownHostException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 
 @Component
 public class ServiceUtil {
